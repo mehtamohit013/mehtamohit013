@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am currently a graduate student at New York University and am interested in Data Science, Data Engineering, and High-Performance Machine Learning. 
 <!--
 **mehtamohit013/mehtamohit013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtamohit013)](https://github.com/mehtamohit013/github-readme-stats)
