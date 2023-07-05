@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 I am currently a graduate student at New York University and am interested in Data Science, Data Engineering, and High-Performance Machine Learning. 
+
+- 🔭 I’m currently working on [Ploomber](https://github.com/ploomber/ploomber) with a focus on simplifying data science pipelines and enhancing SQL support in Jupyter Notebooks through [Jupysql](https://github.com/ploomber/jupysql)
+- 📫 How to reach me: mehtamohit013@gmail.com
+- 🤔 I am actively looking for FTE in the field of Data Science and Data Engineering. If you have one, feel free to shoot me an [email](mailto:mehtamohit013@gmail.com).
 <!--
 **mehtamohit013/mehtamohit013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtamohit013)](https://github.com/mehtamohit013/github-readme-stats)
+
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mehtamohit013&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Mohit's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtamohit013&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
