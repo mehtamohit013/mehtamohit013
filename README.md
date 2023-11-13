@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am currently a graduate student at New York University and am interested in Data Science, Data Engineering, and High-Performance Machine Learning. 
+I am currently a graduate student at New York University and am interested in Machine learning, Data Science, and Data Engineering. My research interests lie in 3D computer vision, NeRFs, and Reinforcement learning.
 
-- 🔭 I’m currently working on [Ploomber](https://github.com/ploomber/ploomber) with a focus on simplifying data science pipelines and enhancing SQL support in Jupyter Notebooks through [Jupysql](https://github.com/ploomber/jupysql)
-- 📫 How to reach me: [mehtamohit013@gmail.com](mailto:mehtamohit013@gmail.com)
-- I am actively looking for FTE in the field of Data Science and Data Engineering.  If you have any openings, please feel free to contact me via email at [mehtamohit013@gmail.com](mailto:mehtamohit013@gmail.com).
+- 🔭 During my summer internship, I was worked on [Ploomber](https://github.com/ploomber/ploomber)(a Y Combinator based startup) with a focus on simplifying data science pipelines and enhancing SQL support in Jupyter Notebooks through [Jupysql](https://github.com/ploomber/jupysql)
+- I am actively looking for FTE in the field of Machine Learning, Data Science and Data Engineering.  If you have any openings, please feel free to contact me via email at [mehtamohit013@gmail.com](mailto:mehtamohit013@gmail.com).
 <!--
 **mehtamohit013/mehtamohit013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
